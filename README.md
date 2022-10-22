@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @owenbardeen
+- 👀 I’m interested in sports data science and poker simulations.
+- 🌱 I’m currently learning machine learning methods (random forests, classifiers, etc.)
+- 📫 How to reach me:
+- email: owenbardeen@gmail.com
