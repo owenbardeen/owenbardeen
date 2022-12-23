@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @owenbardeen
-- 👀 I’m interested in sports data science and poker simulations.
-- 🌱 I’m currently learning machine learning methods (random forests, classifiers, etc.)
+- 👀 I’m interested in quantum computing, poker simulations, and sports data science.
+- 🌱 I’m currently learning quantum machine learning methods (pennylane, lambeq).
+- Currently working on: Poker GUI post-flop methods, quantum machine learning variational classifier.
 - 📫 How to reach me:
 - email: owenbardeen@gmail.com
